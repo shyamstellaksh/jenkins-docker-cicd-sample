@@ -1,6 +1,3 @@
-# jenkins-docker-cicd-sample
-Sample CI/CD pipeline project using Jenkins, Docker and AWS EC2.
-
 # CI/CD Pipeline with Jenkins, Docker & AWS EC2
 
 This is a sample end-to-end CI/CD pipeline project built using **Jenkins**, **Docker**, and **AWS EC2**.  
